@@ -19,10 +19,13 @@ N/A
 ## Usage
 Here are a few screenshots of the website with code changes effected.
 
-![Screenshot of Horiseon website hero area](starter/assets/images/horiseon-website-screenshot1.png)
-![Screenshot of Horiseon website hero area](starter/assets/images/horiseon-website-screenshot2.png)
+![Screenshot of hero area](starter/assets/images/horiseon-website-screenshot-1.png)
+
+![Screen shot of elements below the fold](starter/assets/images/horiseon-website-screenshot-2.png)
+
 
 a few code snippets
+
 ![Code Snippet](starter/assets/images/Code-snippet.png)
 
 You can find the deployed webpage here: 
