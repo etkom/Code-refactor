@@ -17,9 +17,13 @@ A few things i learnt include:
 N/A
 
 ## Usage
+Here are a few screenshots of the website with code changes effected.
 
 ![Screenshot of Horiseon website hero area](starter/assets/images/Horiseon-website-screenshot1.png)
 ![Screenshot of Horiseon website hero area](starter/assets/images/Horiseon-website-screenshot2.png)
+
+You can find the deployed webpage here: 
+
 
 ## Credits
 
