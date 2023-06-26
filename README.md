@@ -28,7 +28,7 @@ a few code snippets
 
 ![Code Snippet](starter/assets/images/Code-snippet.png)
 
-You can find the deployed webpage here: 
+You can find the deployed application here: 
 
 https://etkom.github.io/horiseon-accesibility-ticket/
 
