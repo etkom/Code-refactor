@@ -22,6 +22,9 @@ Here are a few screenshots of the website with code changes effected.
 ![Screenshot of Horiseon website hero area](starter/assets/images/horiseon-website-screenshot1.png)
 ![Screenshot of Horiseon website hero area](starter/assets/images/horiseon-website-screenshot2.png)
 
+a few code snippets
+![Code Snippet](starter/assets/images/Code-snippet.png)
+
 You can find the deployed webpage here: 
 
 https://etkom.github.io/horiseon-accesibility-ticket/
@@ -29,6 +32,7 @@ https://etkom.github.io/horiseon-accesibility-ticket/
 and here's the link to the repository:
 
 https://github.com/etkom/horiseon-accesibility-ticket
+
 
 ## Credits
 
